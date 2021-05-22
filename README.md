@@ -1,8 +1,11 @@
 # ThreeQuicksort
-Performance comparison of three different versions of Quicksort.
+CMPSCI-3130-001-FA2020 <br>
+Instructor: Dr. Wenjie He <br>
+Author: Daniel Eggers <br>
+Date: May 17, /2020 
 
 ## Description
-In this project, we implement the quicksort algorithm in three versions:
+This is a performance comparison of three different versions of Quicksort:
 * the original version
 * the randomization version
 * the median-of-3 version
